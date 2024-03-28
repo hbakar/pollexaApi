@@ -1,0 +1,77 @@
+{
+  "results": [
+{
+    "type": "poll",
+    "id": 1,
+    "title": "Hangi parfümü satın almalıyım?",
+    "author": "Lisa Bryant",
+    "created_at": "2024-03-26T00:00:00.000Z",
+    "last_voted_at": "2024-03-28T11:45:00.000Z",
+    "total_votes": 0,
+    "options": [
+      {
+        "id": 1,
+        "text": "Parfüm 1",
+        "votes": 0
+      },
+      {
+        "id": 2,
+        "text": "Parfüm 2",
+        "votes": 0
+      }
+    ]
+  },
+  {
+    "type": "poll",
+    "id": 2,
+    "title": "3 günlük boş zamanımı nasıl değerlendirmeliyim?",
+    "author": "Aaron Almaraz",
+    "created_at": "2024-03-22T00:00:00.000Z",
+    "last_voted_at": "2024-03-28T12:03:00.000Z",
+    "total_votes": 12,
+    "options": [
+      {
+        "id": 1,
+        "text": "Netflix ve dinlenme",
+        "votes": 0
+      },
+      {
+        "id": 2,
+        "text": "Paris'i ziyaret et",
+        "votes": 6
+      },
+      {
+        "id": 3,
+        "text": "Arkadaşlarınla kamp yap",
+        "votes": 6
+      }
+    ]
+  },
+  {
+    "type": "poll",
+    "id": 3,
+    "title": "Arkadaşımın doğum günü partisine gitmeli miyim?",
+    "author": "Sophia Bennett",
+    "created_at": "2024-03-14T00:00:00.000Z",
+    "last_voted_at": "2024-03-28T12:05:00.000Z",
+    "total_votes": 62,
+    "options": [
+      {
+        "id": 1,
+        "text": "Kesinlikle hayır, çalışmalısın!",
+        "votes": 7,
+        "percentage": 12
+      },
+      {
+        "id": 2,
+        "text": "Yalnızca bir kez yaşıyoruz, gitmelisin!",
+        "votes": 55,
+        "percentage": 88
+      }
+    ]
+  }],
+    "page": 1,
+    "limit": 10,
+    "totalPages": 1,
+    "totalResults": 3
+}
